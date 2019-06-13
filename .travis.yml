@@ -22,8 +22,6 @@ matrix:
 notifications:
   email: false
 
-before_script:
-- go get -t ./...
 
 # Note: scripts always run to completion
 script:
