@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoProject/routers"
+	"Golang-Project-Structure-1/routers"
 	"fmt"
 	"github.com/joho/godotenv"
 	"os"
