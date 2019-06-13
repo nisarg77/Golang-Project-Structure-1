@@ -1,8 +1,8 @@
 package v1
 
 import (
-	u "GoProject/apiHelpers"
-	v1s "GoProject/services/api/v1"
+	u "Golang-Project-Structure-1/apiHelpers"
+	v1s "Golang-Project-Structure-1/services/api/v1"
 	"encoding/json"
 	"github.com/gin-gonic/gin"
 )
