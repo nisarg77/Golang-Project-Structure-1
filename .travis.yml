@@ -4,5 +4,6 @@ go:
   - 1.x
 
 script:
+  - gem install rake
   - go build ./...
   - go test ./...
