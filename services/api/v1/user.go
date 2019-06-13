@@ -1,9 +1,9 @@
 package v1Service
 
 import (
-	u "GoProject/apiHelpers"
-	"GoProject/models"
-	res "GoProject/resources/api/v1"
+	u "Golang-Project-Structure-1/apiHelpers"
+	"Golang-Project-Structure-1/models"
+	res "Golang-Project-Structure-1/resources/api/v1"
 )
 
 type UserService struct {
