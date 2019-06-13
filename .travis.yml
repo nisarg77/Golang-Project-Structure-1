@@ -22,8 +22,3 @@ matrix:
 notifications:
   email: false
 
-
-# Note: scripts always run to completion
-script:
-- make validate
-- make test
